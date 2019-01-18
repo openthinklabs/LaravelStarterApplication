@@ -1,2 +1,2 @@
-# LaravelSkeletonAdminLTE
-LaravelSkeleton dengan Menggunakan Template AdminLTE
+# LaravelStarterApplication
+
