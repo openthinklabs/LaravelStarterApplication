@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/semantic.min.css": "/css/semantic.min.css",
+    "/js/jquery.min.js": "/js/jquery.min.js",
+    "/js/semantic.min.js": "/js/semantic.min.js",
+    "/plugins/counterup/jquery.counterup.min.js": "/plugins/counterup/jquery.counterup.min.js",
+    "/plugins/counterup/jquery.waypoints.min.js": "/plugins/counterup/jquery.waypoints.min.js",
+    "/plugins/flot/jquery.flot.js": "/plugins/flot/jquery.flot.js",
+    "/plugins/js-cookie/js.cookie.js": "/plugins/js-cookie/js.cookie.js",
+    "/plugins/chartjs/chart.min.js": "/plugins/chartjs/chart.min.js",
+    "/plugins/nicescrool/jquery.nicescroll.min.js": "/plugins/nicescrool/jquery.nicescroll.min.js",
+    "/plugins/pacejs/pace.js": "/plugins/pacejs/pace.js",
+    "/plugins/chartist/chartist.min.js": "/plugins/chartist/chartist.min.js"
+}
